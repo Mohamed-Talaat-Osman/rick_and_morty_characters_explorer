@@ -1,0 +1,1 @@
+enum APIAuthorizationType { bearer, none }
